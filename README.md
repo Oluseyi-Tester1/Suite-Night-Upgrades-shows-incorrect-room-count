@@ -1,16 +1,16 @@
 ### NG-Redmi Note 11s/13- Suite Night Upgrades increases room count despite no availability
 
-## Type Functional
+# Type Functional
 
-## Frequency:: Every Time
+# Frequency:: Every Time
 
-## Severity: High
+# Severity: High
 
-## Environment::Xiaomi Redmi Note 11S-Android 13, GloMobile, Chrome
+# Environment::Xiaomi Redmi Note 11S-Android 13, GloMobile, Chrome
 
-## Source:: Exploratory
+# Source:: Exploratory
 
-### Action Performed
+## Action Performed
 
 1. Open the texting link rec3-all.accor.com/booking/en/emblems/hotels/paris-france? compositions=1&dateln=2026-08-24&nights=1
 
@@ -30,10 +30,10 @@
 
 9. Tap on the Toggle on Suite Night Upgrades
 
-### Expected Result
+## Expected Result
 
 The displayed room availability count should accurately represent the rooms that are available with the selected benefit. If no room qualifies for the upgrade, the availability count should reflect zero eligible rooms and the corresponding message should be displayed
 
-##Actual Result
+## Actual Result
 
 After opening the hotel details page, 2 rooms are initially displayed as available. When the Suite Night Upgrades toggle is enabled, the available room count changes to 4 rooms, while a message is displayed stating: "Sorry, no room is available with your Suite Night Upgrades." The page therefore displays an increased room count while indicating that no room is available with the selected benefit.
