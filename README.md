@@ -1,6 +1,6 @@
 ### NG-Redmi Note 11s/13- Suite Night Upgrades increases room count despite no availability
 
-# Type Functional
+# Type:: Functional
 
 # Frequency:: Every Time
 
