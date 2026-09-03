@@ -1,19 +1,19 @@
 ### NG-Redmi Note 11s/13- Suite Night Upgrades increases room count despite no availability
 
 
-# Type 
+## Type 
 Functional
 
-# Frequency
+## Frequency
 Every Time
 
-# Severity
+## Severity
 High
 
-# Environment::
+## Environment::
 Xiaomi Redmi Note 11S-Android 13, GloMobile, Chrome
 
-# Source
+## Source
 Exploratory
 
 ## Action Performed
