@@ -43,3 +43,12 @@ The displayed room availability count should accurately represent the rooms that
 ## Actual Result
 
 After opening the hotel details page, 2 rooms are initially displayed as available. When the Suite Night Upgrades toggle is enabled, the available room count changes to 4 rooms, while a message is displayed stating: "Sorry, no room is available with your Suite Night Upgrades." The page therefore displays an increased room count while indicating that no room is available with the selected benefit.
+
+https://github.com/user-attachments/assets/f35e0822-f61d-4e43-839f-ad625c9dc0a4
+
+
+https://github.com/user-attachments/assets/0db36279-5e89-4cf4-bcec-2b498378c899
+
+
+
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/0db36279-5e89-4cf4-bcec-2b498378c899" />
